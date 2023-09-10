@@ -1,6 +1,11 @@
 # Pressure Gauge Precision
-![pressure gauges](https://cdn.discordapp.com/attachments/1051281685234327613/1150438537024516227/Frame_1.png)
-## Objective
+![pressure gauges](https://cdn.discordapp.com/attachments/1051281685234327613/1150438537024516227/Frame_1.png)<br>
+<i>Generative placeholder image</i>
+## Objective (Idle)
+**Idle Game:** No objective. The player earns 1 token per second (1tps) for having the game window open with their wallet connected. The job could be called something like 'Sleuce Valve Tech'. Earnings of 1tps calculated during gameplay, sent in 1 transaction upon 'clock-out'.
+<br><br><br>
+
+## Objective Alternative (Interactive)
 
 Your task is to maintain the pressure gauges within the green zone for as long as possible. The longer you keep them there, the more tokens you earn.
 
