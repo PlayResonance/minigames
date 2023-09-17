@@ -2,6 +2,8 @@
 
 Welcome to the world of Resonance! Explore a variety of captivating mini-games that will challenge your skills and contribute to your adventures within the Resonance universe.
 
+These games are in progress, they will undergo many changes, may be removed or replaced with other minigames. They simply serve as an example for the aesethic we are trying to provide.
+
 ## [Bonk Out](https://github.com/PlayResonance/minigames/blob/main/bonkout.md)
 
 Test your reflexes and aim in this classic brick-breaking game. Destroy all the blocks to unlock secret passages and discover hidden treasures. 
